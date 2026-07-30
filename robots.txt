@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ccwangj.github.io/wangfabuyewa/sitemap.xml
